@@ -36,7 +36,7 @@ README.md
 ---
 
 ## 📁 GitHub Repository
-((https://github.com/trivenidabholkar-dev/PRODIGY_WD_03)
+(https://github.com/kunalbagkar39/PRODIGY_WD_03.git)
 
 ---
 
